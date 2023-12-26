@@ -52,6 +52,8 @@ Designed for modularity and readability. Detailed documentation.
 
 ## 📂 Repository Structure
 
+This only notes the NodeJS-related files and directories; other files (like the Dockerfile) are not included.
+
 ```sh
 └── TikTok-Discord-Bot-2/
     ├── eventHandlers/
@@ -103,6 +105,13 @@ yarn install
 
 ```sh
 node index.js
+```
+
+or, through docker:
+
+```sh
+docker build -t tiktok-discord-bot-2 .
+docker run -d tiktok-discord-bot-2
 ```
 
 ---
