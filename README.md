@@ -27,7 +27,7 @@
 
 ## 📍 Overview
 
-This is the fifth iteration of this project. It is labelled as v2 because it is a complete rewrite of the now-deprecated [v1](https://github.com/InformationlessUsername/TikTok-Discord-Bot). TikTok has continually been changing their API, which prompted the rewrite, aiming for increased stability and reduced maintenance.
+This is the fifth iteration of this project. It is labelled as v2 because it is a complete rewrite of the now-deprecated [v1](https://github.com/InformationlessUsername/TikTok-Discord-Bot), which included the first four iterations. TikTok has continually been changing their API, which prompted the rewrite, aiming for increased stability and reduced maintenance. 
 
 Features:
 
