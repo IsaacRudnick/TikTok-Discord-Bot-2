@@ -111,7 +111,7 @@ or, through docker:
 
 ```sh
 docker build -t tiktok-discord-bot-2 .
-docker run -d tiktok-discord-bot-2
+docker run -d  --restart always tiktok-discord-bot-2
 ```
 
 ---
