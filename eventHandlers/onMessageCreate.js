@@ -138,7 +138,7 @@ async function handleSlideshow(message, ttnwResponse, localID) {
 	const fileName = `${localID}.mp3`;
 	await downloadFile(audioURL, downloadLocation, fileName);
 
-	// Change format and codec of audio file to be embeddible in Discord
+	// Change format and codec of audio file to be embeddable in Discord
 	// Conversion command
 
 	if (audioURL) {
