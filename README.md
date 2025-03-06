@@ -1,3 +1,7 @@
+# DEPRECATED - SEE [V3](https://github.com/IsaacRudnick/TikTok-Discord-Bot-3)
+
+Due to compatibility issues, this project has been reworked as noted above. This version (v2) is still semi-functional, but not consistent because of TikTok's continually-changing web-request handling. 
+
 <div align="center">
 <h1 align="center">
 <br>TikTok Discord Bot 2</h1>
